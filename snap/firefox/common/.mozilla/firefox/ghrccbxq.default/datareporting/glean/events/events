@@ -1,0 +1,17 @@
+{"timestamp":2125538,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"loadfail_reason":"N/A","glean_timestamp":"1791867054171","path_key":"clean","can_load":"true"}}
+{"timestamp":2125539,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"can_load":"true","path_key":"clean","loadfail_reason":"N/A","glean_timestamp":"1791867054171"}}
+{"timestamp":2125539,"category":"session_restore","name":"shutdown_success_session_startup","extra":{"glean_timestamp":"1791867054172","shutdown_reason":"N/A","shutdown_ok":"false"}}
+{"timestamp":2126063,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required","glean_timestamp":"1791867054696"}}
+{"timestamp":2126770,"category":"nimbus_events","name":"startup_database_consistency","extra":{"total_store_count":"24","db_active_count":"24","total_db_count":"24","trigger":"startup","store_active_count":"24","glean_timestamp":"1791867055403","primary":"database"}}
+{"timestamp":2127154,"category":"jsonfile","name":"load_autofillprofiles","extra":{"glean_timestamp":"1791867055786","value":"error_notfounderror"}}
+{"timestamp":2127534,"category":"containers","name":"container_profile_loaded","extra":{"containers":"4","glean_timestamp":"1791867056167"}}
+{"timestamp":2127626,"category":"doh","name":"state_rollback","extra":{"glean_timestamp":"1791867056259","value":"null"}}
+{"timestamp":2127931,"category":"jsonfile","name":"load_logins","extra":{"value":"error_notfounderror","glean_timestamp":"1791867056564"}}
+{"timestamp":2127964,"category":"upgrade_dialog","name":"trigger_reason","extra":{"value":"not-major","glean_timestamp":"1791867056597"}}
+{"timestamp":2128658,"category":"normandy","name":"enroll_nimbus_experiment","extra":{"glean_timestamp":"1791867057291","branch":"treatment-a","experimentType":"rollout","value":"vertical-tabs-promo-rollout-day-3-profiles-all-locales-2026"}}
+{"timestamp":2128659,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","experiment":"vertical-tabs-promo-rollout-day-3-profiles-all-locales-2026","branch":"treatment-a","glean_timestamp":"1791867057291"}}
+{"timestamp":2128757,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1791867057390"}}
+{"timestamp":2130163,"category":"nimbus_events","name":"database_write","extra":{"success":"true","glean_timestamp":"1791867058796"}}
+{"timestamp":2132597,"category":"urlbar","name":"engagement","extra":{"groups":"top_site,top_site,top_site,top_site,top_site,recent_search,trending_search,trending_search,trending_search,trending_search","provider":"UrlbarProviderTopSites","available_semantic_sources":"none","search_mode":"","sap":"urlbar_newtab","glean_timestamp":"1791867061229","n_chars":"0","actions":"none,none,none,none,none,none,none,none,none,none","search_engine_default_id":"google-ubuntu-sn","selected_position":"1","n_words":"0","n_results":"10","selected_result":"top_site","interaction":"topsites","results":"top_site,top_site,top_site,top_site,top_site,recent_search,trending_search,trending_search,trending_search,trending_search","engagement_type":"click"}}
+{"timestamp":2139209,"category":"security.ui.neterror","name":"load_aboutneterror","extra":{"value":"connectionFailure","is_frame":"false","channel_status":"2152398861","glean_timestamp":"1791867083207"}}
+{"timestamp":2154983,"category":"security.ui.neterror","name":"load_aboutneterror","extra":{"channel_status":"2152398861","is_frame":"false","value":"connectionFailure","glean_timestamp":"1791867085929"}}
